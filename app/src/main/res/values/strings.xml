@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Games</string>
+
+    <string name="info">An activity driven by the logics of play where two or more participants compete to reach a specific goal while being framed by a set of rules and challenges.</string>
+    <string name="title">GAMES</string>
+    <string name="Knowmore">KNOWMORE</string>
+    <string name="image">image</string>
+    <string name="enter_number">enter Number</string>
+    <string name="submit">SUBMIT</string>
+    <string name="button">Button</string>
+    <string name="images">image</string>
+    <string name="players1">one player</string>
+    <string name="player2">two player</string>
+    <string name="player3">multiple player</string>
+    <string name="imageset">imageset</string>
+    <string name="search">SEARCH</string>
+    <string name="swim">Swim</string>
+    <string name="golf">Golf</string>
+    <string name="archery">Archery</string>
+    <string name="tennis">Tennis</string>
+    <string name="chess">Chess</string>
+    <string name="cricket">Cricket</string>
+    <string name="volleyball">Vollyball</string>
+
+
+</resources>
